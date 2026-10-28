@@ -18,7 +18,7 @@ Estudante do curso técnico de Informática no **CEET Vasco Coutinho** (2º mód
 
 ### 📚 Formação Acadêmica
 
-* **Técnico em Informática** — CEET Vasco Coutinho (2º Módulo | Previsão de conclusão: ...)
+* **Técnico em Informática** — CEET Vasco Coutinho (2º Módulo | Previsão de conclusão: Julho de 2027)
 * **Engenharia Elétrica** — Faculdade Cruzeiro do Sul (4º Período)
 * **Técnico em Eletrotécnica (Ensino Médio Integrado)** — Colégio Arnulpho Mattos
 
